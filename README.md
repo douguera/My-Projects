@@ -16,8 +16,8 @@ Cada projeto contém:
 ## Projetos em Destaque
 
 ### PowerBI
-- [Causa Raiz 2025 ](My-Projects
-/Causa Raiz Dashboard.pbix)
+- [Causa Raiz 2025](My-Projects/Causa%20Raiz%20Dashboard.pbix)
+
 - [Gestão de Estoque](PowerBI/Projeto2/README.md)
 
 ### Tableau
