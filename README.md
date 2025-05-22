@@ -17,23 +17,21 @@ Cada projeto contém:
 
 ### PowerBI
 
+
 - [Causa Raiz 2025](Causa%20Raiz%20Dashboard.pbix)
+- 
+- [DASH RH](DASH%20RH.pbix)
+- 
+- [Performance Agentes](Performace%20agentes%20-%20Dashboard.pbix)
 
-
-- [Gestão de Estoque](PowerBI/Projeto2/README.md)
-
-### Tableau
-- [Dashboard de Marketing Digital](Tableau/Projeto1/README.md)
 
 ### Data Studio
 - [Relatório de Acessos Web](DataStudio/Projeto1/README.md)
 
-## Como visualizar os relatórios?
+## Como visuali zar os relatórios?
 
 - Power BI: Faça download do arquivo `.pbix` e abra no Power BI Desktop.
-- Tableau: Arquivo `.twbx` ou link público do Tableau.
 - Data Studio: Link para o relatório público no Google Data Studio.
 
----
 
-Sinta-se à vontade para explorar os projetos e entrar em contato!
+Sinta-se à vontade para explorar os projetos e entrar em cOntato!
