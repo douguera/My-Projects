@@ -16,7 +16,7 @@ Cada projeto contém:
 ## Projetos em Destaque
 
 ### PowerBI
-- [Análise de Vendas 2024](PowerBI/Projeto1/README.md)
+- [Causa Raiz 2025 ](Causa Raiz Dashboard.pbix)
 - [Gestão de Estoque](PowerBI/Projeto2/README.md)
 
 ### Tableau
