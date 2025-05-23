@@ -17,7 +17,7 @@ Cada projeto contém:
 
 ### 📊 Power BI
 
-- [Causa Raiz 2025](./PowerBI/CAUSA-RAIZ/Causa-Raiz-Dashboard.pbix)
+- [Causa Raiz 2025](./POWER-BI/CAUSA-RAIZ/Causa-Raiz-Dashboard.pbix)
 - [Dashboard RH](./PowerBI/DASH-RH/DASH-RH.pbix)
 - [Performance Agentes](./PowerBI/Performance-Agentes/Performance-Agentes.pbix)
 
