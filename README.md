@@ -16,7 +16,7 @@ Cada projeto contém:
 ## Projetos em Destaque
 
 ### PowerBI
-- [Causa Raiz 2025](Causa%20Raiz%20Dashboard.pbix)
+- [Causa Raiz 2025](POWER%BI/CAUSA%RAIZ/Causa%Raiz%Dashboard.pbix)
 - 
 - [DASH RH](DASH%20RH.pbix)
 - 
