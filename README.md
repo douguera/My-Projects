@@ -21,6 +21,9 @@ Cada projeto contém:
 - [Dashboard RH](./POWER-BI/DASH-RH/DASH-RH.pbix)
 - [Performance Agentes](./POWER-BI/PERFORMACE/Performace-agentes-Dashboard.pbix)
 
+- ### 📊 SQL SERVER
+- (em construção)
+
 
 
 
