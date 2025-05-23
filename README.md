@@ -15,16 +15,12 @@ Cada projeto contém:
 
 ## Projetos em Destaque
 
-### PowerBI
-- [Causa Raiz 2025](POWER%BI/CAUSA%RAIZ/Causa%Raiz%Dashboard.pbix)
-- 
-- [DASH RH](DASH%20RH.pbix)
-- 
-- [Performance Agentes](Performace%20agentes%20-%20Dashboard.pbix)
+### 📊 Power BI
 
+- [Causa Raiz 2025](./PowerBI/Causa-Raiz-2025/Causa-Raiz-2025.pbix)
+- [Dashboard RH](./PowerBI/DASH-RH/DASH-RH.pbix)
+- [Performance Agentes](./PowerBI/Performance-Agentes/Performance-Agentes.pbix)
 
-### SQL Server e Virtualização
-- [Relatório de Acessos Web](DataStudio/Projeto1/README.md)
 
 ## Como visuali zar os relatórios?
 
