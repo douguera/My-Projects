@@ -1,12 +1,12 @@
 # Portfólio de Projetos em Business Intelligence
 
-Bem-vindo ao meu portfólio de projetos em BI! Aqui você encontra exemplos práticos de dashboards e análises de dados utilizando Power BI, Tableau e Data Studio.
+Bem-vindo ao meu portfólio de projetos em BI! Aqui você encontra exemplos práticos de dashboards e análises de dados utilizando Power BI, SQL Server e Data Studio.
 
 ## Estrutura dos Projetos
 
 - **PowerBI**: Dashboards e análises desenvolvidas no Power BI.
-- **Tableau**: Projetos criados com Tableau Public/Tableau Desktop.
 - **DataStudio**: Relatórios criados no Google Data Studio.
+- **SQL Server**: Relatórios com tratamento de dados inicial e otimizações na performace da base utilizando tunning em SQL.
 
 Cada projeto contém:
 - Fonte dos dados (`dataset/`)
@@ -16,8 +16,6 @@ Cada projeto contém:
 ## Projetos em Destaque
 
 ### PowerBI
-
-
 - [Causa Raiz 2025](Causa%20Raiz%20Dashboard.pbix)
 - 
 - [DASH RH](DASH%20RH.pbix)
